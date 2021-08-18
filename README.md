@@ -12,7 +12,7 @@ Mobile App Development Life cycle
 
 
 
-Tech Stack
+Tech Stack :
 
 Language: Java
 
